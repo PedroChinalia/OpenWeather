@@ -1,6 +1,6 @@
 # WeatherNow
 
-This is a weather app created with React Native with the purpose to inform the user about the climate of his location.
+This is a weather app created with React Native. Its purpose is to inform the user about the climate of his location.
 
 To test the app, start by cloning this respository and then run the command:
 
