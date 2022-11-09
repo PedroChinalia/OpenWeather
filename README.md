@@ -17,5 +17,6 @@ npm start
 to start a local server.
 
 You can choose to test the app in your browser by writing ```w``` in the terminal or you can run the app in your mobile device.
+
 To run this app on your phone or tablet, you will need to install an app called Expo Go.
-After installing the Expo Go app, open it and scan the QR code in the terminal with your device, and it should start the app.
+After installing the Expo Go app, open it and scan the QR code in the terminal with your device, and it should run this app.
