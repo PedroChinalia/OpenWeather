@@ -2,13 +2,13 @@
 
 This is a weather app created with React Native. Its purpose is to inform the user about the climate of his location.
 
-To test the app, start by cloning this respository and then run the command:
+To test the app, start by cloning this respository and then, run the command:
 
 ```
 npm install
 ```
 
-After installing all dependencies, run
+After installing all dependencies, run:
 
 ```
 npm start
